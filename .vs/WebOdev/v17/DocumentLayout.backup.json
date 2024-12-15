@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\views\\home\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:views\\home\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\views\\home\\removebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:views\\home\\removebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|c:\\users\\muhammed\\desktop\\webodev\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E44D5600-44A5-4CAC-A45C-7931FDA8ECC8}|WebOdev.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:17:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "removeBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\removeBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\removeBook.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\removeBook.cshtml",
+              "RelativeToolTip": "Views\\Home\\removeBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T09:39:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "books.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\books.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\books.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\books.cshtml*",
+              "RelativeToolTip": "Views\\Home\\books.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T09:37:10.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:44:42.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\addBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\addBook.cshtml",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Views\\Home\\addBook.cshtml",
+              "RelativeToolTip": "Views\\Home\\addBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:43:40.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Muhammed\\Desktop\\WebOdev\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-15T08:45:47.763Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

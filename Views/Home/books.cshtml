@@ -1,0 +1,37 @@
+﻿@using WebOdev.Models
+@model List<Kitap>
+
+@{
+    ViewBag.Title = "Kitap Ekle";
+    Layout = "~/Views/Home/_Layout.cshtml";
+}
+
+<div class="container mx-lg-5">
+    <h3>Kitaplar</h3>
+
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Kitap ID</th>
+                <th>Kitap İsmi</th>
+                <th>Yazar İsmi</th>
+                <th>Baskı</th>
+                <th>Fiyat</th>
+                <th>Stok Adedi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.KitapAdi</td>
+                    <td>@book.Yazar</td>
+                    <td>@book.Baski</td>
+                    <td>@book.Fiyat</td>
+                    <td>@book.Stok</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

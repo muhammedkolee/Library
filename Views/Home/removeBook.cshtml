@@ -1,0 +1,32 @@
+﻿@model WebOdev.Models.Kitap
+
+@{
+    ViewBag.Title = "Kitap Ekle";
+    Layout = "~/Views/Home/_Layout.cshtml";
+}
+
+<div class="display-6 mx-lg-5">Kitap Sil</div>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info mx-lg-5">
+        @ViewBag.Message
+    </div>
+}
+
+<form method="post">
+    <div class="form-group my-2 mx-lg-5">
+        <label class="col-form-label">Kitap İsmi</label>
+        @Html.TextBoxFor(k => k.KitapAdi, new { @class = "form-control", placeholder = "Kitap Adı", required = "required" })
+    </div>
+
+    <div class="form-group my-2 mx-lg-5">
+        <label class="col-form-label">Silinecek Kitap Sayısı</label>
+        @Html.TextBoxFor(k => k.Stok, new { @class = "form-control", placeholder = "10", required = "required" })
+    </div>
+
+    <div class="form-group my-2 mx-lg-5">
+        <button class="btn btn-outline-danger" type="submit">Sil</button>
+        <a href="/" class="btn btn-info">Ana Sayfa</a>
+    </div>
+</form>
